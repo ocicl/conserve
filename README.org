@@ -1,0 +1,9 @@
+* conserve
+
+A tiny library for reading and writing RFC 4180 CSV data.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/sjl/conserve.git                   |
+| commit  | 0000000                                                    |
+| systems | conserve                                                  |
+|---------+------------------------------------------------------------|
