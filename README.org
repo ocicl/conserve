@@ -7,3 +7,4 @@ A tiny library for reading and writing RFC 4180 CSV data.
 | commit  | a135f0d                                                    |
 | systems | conserve                                                  |
 |---------+------------------------------------------------------------|
+ 
